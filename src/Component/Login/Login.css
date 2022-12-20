@@ -1,0 +1,40 @@
+#loghe{
+     text-align: center;
+     font-size: 36px;
+     font-family: 'Arial Narrow Bold';
+     margin-top: 2%;
+}
+
+#logmesn{
+     text-align: center;
+     font-size: 26px;
+     font-weight: bold;
+     color: #d31010;
+}
+
+#logboa{
+     color: #05302e;
+     font-size: 20px;
+     font-family: Arial, Helvetica, sans-serif;
+     font-weight: bold;
+     margin-top: 1%;
+}
+
+.logbo{
+     margin-bottom: 2%;
+     margin-bottom: 2%;
+}
+
+.logbu{
+     float: right;
+     font-weight: bold;
+     color: #cee8ce;
+     background-color: #023e05;
+     margin-top: 2%;
+     margin-bottom: 5%;
+}
+
+.logbu:hover{
+     color: #cee8ce;
+     background-color: #023e05;
+}

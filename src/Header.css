@@ -1,0 +1,66 @@
+.ncolour{
+    background-color: #dd940d;
+}
+
+#icon{
+    height: 60px;
+    width: 60px;
+    background-color: orange;
+}
+
+.navv{
+    font-size: 40px;
+    font-weight: bold;
+    color: #dd252a !important;
+    text-decoration: none;
+}
+
+.navvv{
+    font-size: 25px;
+    font-weight: bold;
+    border-left-color: black;
+    border-left-style: solid;
+    border-left-width: 3px;
+    text-decoration: none;
+}
+
+.nav-item > .nav-link {
+    color: black;
+}
+
+.btnlogin{
+    display: inline-block;
+}
+
+.navvvli{
+    background-color: #fac927;
+    font-size: 25px;
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 18px;
+}
+
+.navvvre{
+    background-color: #fab027;
+    font-size: 25px;
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 18px;
+}
+
+.navvvlo{
+    background-color: #f42929;
+    font-size: 25px;
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 18px;
+}
+
+.navvvna{
+    background-color: #ef9f0b;
+    font-size: 25px;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 18px;
+}

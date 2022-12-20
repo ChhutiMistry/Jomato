@@ -1,0 +1,51 @@
+#catalogue{
+    font-size: 30px;
+    font-family: Arial;
+    font-weight: bolder;
+    text-align: center;
+    margin-top: 2%;
+}
+
+#list{
+    color: black;
+    text-decoration: none;
+}
+
+.box{
+    color: #221515;
+    float: left;
+    border-style:inset;
+    border-width: 10px;
+    height: 360px;
+    width: 370px;
+    margin-left: 7%;
+    margin-top: 2%;
+    margin-bottom: 3%;
+    box-shadow: 40px 20px 50px grey;
+    animation: swing 1.5s;
+}
+
+@keyframes swing {
+    0% {transform: rotate(10deg)}
+    25% {transform: rotate(5deg)}
+    50% {transform: rotate(0deg)}
+    75% {transform: rotate(-5deg)}
+    100% {transform: rotate(-10deg)}
+}
+
+.box:hover{
+    transform: scale(1.05);
+}
+
+.images{
+    height: 286px;
+    width: 349px;
+}
+
+.foodname{
+    font-size: 40px;
+    text-align: center;
+    font-family: Times New Roman;
+    font-weight: bold;
+    margin-top: -2%;
+}

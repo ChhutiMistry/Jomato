@@ -1,0 +1,24 @@
+.footer{
+     color: black;
+     background-color: #dd940d;
+     width: 100%;
+     display: inline-block;
+}
+
+.vertical{
+     margin-top: 2%;
+     margin-left: 15%;
+     font-size: 24px;
+     text-align: left;
+     float: left;
+}
+
+#copy{
+     width: 100%;
+     font-size: 30px;
+     display: inline-block;
+     text-align: center;
+     border-top-style: solid;
+     border-top-color: black;
+     border-top-width: 3px;
+}

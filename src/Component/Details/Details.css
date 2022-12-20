@@ -1,0 +1,164 @@
+#picture{
+     height: 500px;
+     width: 500px;
+     border-style: inset;
+     border-color: orange;
+     border-width: 10px;
+     box-shadow: -34px -22px 42px #e5891b;
+     margin-top: 5%;
+     margin-bottom: 5%;
+}
+
+#name{
+     margin-left: 10%;
+     margin-top: 5%;
+}
+
+#star{
+     font-size: 20px;
+     color: rgb(224, 64, 6);
+     margin-left: 12%;
+}
+
+#review{
+     font-size: 17px;
+     color: rgb(194, 89, 28);
+     font-weight: bolder;
+     margin-left: 12%;
+}
+
+#oldprice{
+     font-size: 22px;
+     margin-left: 10%;
+     font-weight: bold;
+}
+
+#oldcost{
+     font-size: 24px;
+     text-decoration: line-through;
+     margin-left: 10%;
+     font-weight: bolder;
+}
+
+#newprice{
+     font-size: 22px;
+     margin-left: 10%;
+     font-weight: bold;
+}
+
+#newcost{
+     font-size: 24px;
+     margin-left: 5%;
+     font-weight: bolder;
+}
+
+#termlogo1{
+     height: 100px;
+     width: 100px;
+     border: black;
+     border-style: groove;
+     margin-left: 10%;
+     margin-top: 2%;
+}
+
+#termlogo2{
+     height: 100px;
+     width: 100px;
+     border: black;
+     border-style: groove;
+     margin-left: 5%;
+     margin-top: 2%;
+}
+
+#termlogo3{
+     height: 100px;
+     width: 200px;
+     border: black;
+     border-style: groove;
+     margin-left: 5%;
+     margin-top: 2%;
+}
+
+#available{
+     font-size: 30px;
+     color: green;
+     font-weight: bolder;
+     margin-left: 14%;
+     margin-top: 3%;
+}
+
+#button1{
+     height: 50px;
+     width: 120px;
+     color: black;
+     font-size: 20px;
+     text-align: center;
+     text-decoration: none;
+     font-weight: bold;
+     box-shadow: -2px 2px 35px inset;
+     margin-left: 10%;
+     margin-top: 2%;
+     margin-bottom: 5%;
+}
+
+#button2{
+     height: 50px;
+     width: 150px;
+     color: black;
+     font-size: 20px;
+     text-align: center;
+     font-weight: bold;
+     box-shadow: 2px -2px 35px inset;
+     margin-left: 2%;
+     margin-top: 2%;
+     margin-bottom: 5%;
+}
+
+#button3{
+     height: 50px;
+     width: 120px;
+     color: black;
+     font-size: 20px;
+     text-align: center;
+     font-weight: bold;
+     box-shadow: -2px 2px 35px inset;
+     margin-left: 2%;
+     margin-top: 2%;
+     margin-bottom: 5%;
+}
+
+.heado{
+     color: #93f412;
+     background-color: #085d1f;
+     text-align: center;
+     font-weight: 500;
+}
+
+#ordero{
+     color: #93f412;
+}
+
+.bodyo{
+     background-color: #96e9ac;
+}
+
+.items{
+     margin-top: 1%;
+     margin-left: 5%;
+}
+
+.buttons{
+     margin-top: 2%;
+}
+
+#namel{
+     font-size: 18px;
+     font-weight: 500;
+     margin-left: 2%;
+}
+
+#imagel{
+     border: black;
+     border-style: solid;
+     border-width: 2px;
+}

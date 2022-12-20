@@ -1,0 +1,30 @@
+#cuisinef{
+     color: #342c21;
+     font-size: 26px;
+     font-family: monospace;
+     margin-left: 2%;
+     border-bottom-color: black;
+     border-bottom-width: 2px;
+     border-bottom-style: groove;
+}
+
+#costf{
+     color: #342c21;
+     font-size: 26px;
+     font-family: monospace;
+     margin-top: 15%;
+     margin-left: 2%;
+     border-bottom-color: black;
+     border-bottom-width: 2px;
+     border-bottom-style: groove;
+}
+
+.cuisinefn{
+     font-size: 25px;
+     margin-left: 10%;
+}
+
+.costfn{
+     font-size: 25px;
+     margin-left: 10%;
+}

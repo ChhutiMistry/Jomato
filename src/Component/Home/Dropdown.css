@@ -1,0 +1,74 @@
+#front{
+    height: 500px;
+    background-image: url("https://i.ibb.co/1dZZXzf/Background.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+#imagelogoc{
+    text-align: center;
+}
+
+#logo{
+    height: 200px;
+    width: 200px;
+    margin-top: 2%;
+    background-color: orange;
+    animation: revolve 1s;
+}
+
+@keyframes revolve {
+    0% {transform: rotate(30deg)}
+    25% {transform: rotate(90deg)}
+    50% {transform: rotate(180deg)}
+    75% {transform: rotate(270deg)}
+    100% {transform: scale(2.1)}
+}
+
+#logo:hover{
+    opacity: 90%;
+    background-color: #f3b033;
+}
+
+#headline{
+    font-size: 40px;
+    font-family: Verdana;
+    font-weight: bold;
+    text-shadow: -6px -6px black;
+    color: orange;
+    text-align: center;
+    margin-top: 2%;
+    animation: magnify 1s;
+}
+
+@keyframes magnify {
+    100% {transform: scale(1.5)}
+}
+
+#headline:hover{
+    transform: scale(1.08);
+    color: #f7ac17;
+}
+
+#drop{
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 3%;
+    text-align: center;
+}
+
+.droph{
+    font-weight: bold;
+}
+
+#dropcity{
+    display: inline;
+    font-size: 20px;
+    margin-right: 1%;
+}
+
+#droprest{
+    display: inline;
+    font-size: 20px;
+    margin-left: 1%;
+}
