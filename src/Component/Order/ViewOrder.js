@@ -52,7 +52,7 @@ class ViewOrder extends Component {
                .then((res) => {
                this.setState({orders:res.data})
                });
-          }, 800);
+          }, 800)
      }
 }
 
