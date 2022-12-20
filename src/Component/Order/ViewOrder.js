@@ -52,7 +52,8 @@ class ViewOrder extends Component {
                .then((res) => {
                this.setState({orders:res.data})
                });
-          }, 800)
+          }, 800);
+          return () => clearTimeout(getData);
      }
 }
 
